@@ -1,0 +1,3 @@
+11-20-18  Git Repository Created and Made Initial commit
+
+11-20-18  Initial Surge Deployment https://complex-machine.surge.sh
